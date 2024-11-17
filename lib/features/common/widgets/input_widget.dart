@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:farming_app/constants.dart';
+import 'package:farming_app/core/constants/constants.dart';
 
 class InputWidget extends StatelessWidget {
   const InputWidget(
